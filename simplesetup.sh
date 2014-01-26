@@ -274,7 +274,7 @@ function proccess_input() {
         ;;
 
         *)
-            echo 'neumime'
+            echo 'Unknown choice'
         ;;
     esac
 
