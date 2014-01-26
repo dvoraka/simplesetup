@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# setup.sh
+# simplesetup.sh
 #
 
 # SSH username
