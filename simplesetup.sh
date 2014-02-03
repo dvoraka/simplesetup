@@ -197,7 +197,7 @@ function sync_remote() {
 
     if [ -f exclude ]
     then
-        echo ' + Find exclude file.'
+        echo ' + Found exclude file.'
     else
         echo " ! You don't have exclude file."
         echo -n 'Is it OK? [y/n]: '
