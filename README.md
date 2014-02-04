@@ -15,5 +15,7 @@ $ ./simplesetup.sh
   8) generate exclude file
   9) quit
 
-Enter choice:
+Enter choice: 9
+
+$
 ```
