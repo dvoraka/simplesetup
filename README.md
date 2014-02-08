@@ -1,9 +1,8 @@
-simplesetup
-===========
+# simplesetup
 
-Simple setup script for Python environments. Copy script into your project and set variables.
+Simple setup script for Python environments. Copy script into your project and set variables. You need Bash to run.
 
-### Examples
+## Example
 ```
 $ ./simplesetup.sh 
 ----
