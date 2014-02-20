@@ -1,7 +1,21 @@
 # simplesetup
 
-Simple setup script for Python environments. Copy script into your project and set variables. You need Bash to run.
+Simple setup script for Python environments. Copy script into your project directory and set variables. You need Bash to run.
 
+Variables:
+
+```
+# SSH username
+USER='user'
+# SSH host address
+HOST='localhost'
+# project directory
+PDIR='projectroot'
+# virtual env. directory name
+VIRT_ENV='test222'
+# virtual environments directory
+VE_DIR='virtenvs'
+```
 ## Example
 ```
 $ ./simplesetup.sh 
